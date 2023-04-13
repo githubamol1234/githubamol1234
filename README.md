@@ -1,4 +1,4 @@
-# 💫 About Me:
+#Hii I'am Amol Nagare.
 🔭 I’m currently working on Campus recruitment project<br>👯 I’m looking to collaborate on PHP & MySQL<br>🤝 I’m looking for help with Laravel<br>🌱 I’m currently learning NodeJS<br>💬 Ask me about Backend and frontend<br>⚡ In Coding we should use only 1% of brain.
 
 
