@@ -6,7 +6,7 @@
 # Hello 👋 there, I am Amol Nagare.
 🔭 Breathing JavaScript, ReactJS, PHP & MySQL<br>👯 I’m looking to collaborate on PHP & MySQL<br>🤝 I’m looking for help with Laravel<br>🌱 Trying to plant a tree for NodeJS<br>💬 Ask me about JavaScript, ReactJs, PHP & MySQL<br>⚡ In Coding we should use only 1% of brain.
 
-<div><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400px" align="right"></div>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400px" align="right">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amolnagare123) 
