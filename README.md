@@ -1,9 +1,12 @@
 
 <p>hello</p>
 
+
+<div>
 # Hello there, I am Amol Nagare.
 🔭 Breathing JavaScript, ReactJS, PHP & MySQL<br>👯 I’m looking to collaborate on PHP & MySQL<br>🤝 I’m looking for help with Laravel<br>🌱 Trying to plant a tree for NodeJS<br>💬 Ask me about JavaScript, ReactJs, PHP & MySQL<br>⚡ In Coding we should use only 1% of brain.
-
+</div>
+<div><img src=""></div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amolnagare123) 
