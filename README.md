@@ -5,12 +5,11 @@
 # 👋Hello there, I am Amol Nagare.
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400px" align="right">
 👨🏻‍💻  About Me<br>
-💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️  You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.
+💡  I like to explore new technologies and develop software solutions.
+🎓  I completed my  education in BCA from SGBUA University Amaravati.
+🌱  I'm on track for learning more about NodeJS, ReactJs and PHP-Mysql.
+✍️  In my free time, I pursue listening musi and playing chess.
+✉️  You can shoot me an email at amolnagare29@gmail.com I'll try to respond as soon as I can.
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 
