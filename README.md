@@ -2,7 +2,7 @@
 
 
 
-# Hello 👋 there, I am Amol Nagare.
+# 👋Hello there, I am Amol Nagare.
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400px" align="right">
 🔭 Breathing JavaScript, ReactJS, PHP & MySQL<br>👯 I’m looking to collaborate on PHP & MySQL<br>🤝 I’m looking for help with Laravel<br>🌱 Trying to plant a tree for NodeJS<br>💬 Ask me about JavaScript, ReactJs, PHP & MySQL<br>
 
