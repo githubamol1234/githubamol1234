@@ -6,9 +6,9 @@
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300px" align="right">
 👨🏻‍💻  About Me<br>
 💡  I like to explore new technologies and develop software solutions.<br>
-🎓  I completed my  education in BCA from SGBUA University Amaravati.<br>
+🎓  I completed my  education in BCA from SGBAU University Amaravati.<br>
 🌱  I'm on track for learning more about NodeJS, ReactJs and PHP-Mysql.<br>
-✍️  In my free time, I pursue listening musi and playing chess.<br>
+✍️  In my free time, I pursue listening music and playing chess.<br>
 ✉️  You can shoot me an email at amolnagare29@gmail.com I'll try to<br> respond as soon as I can.<br>
 📄  Please have a look at my Résumé for more details about me. I'm open to<br> feedback and suggestions!
 
