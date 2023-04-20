@@ -4,7 +4,7 @@
 
 # 👋Hello there, I am Amol Nagare.
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400px" align="right">
-👨🏻‍💻  About Me
+👨🏻‍💻  About Me<br>
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
